@@ -1,2 +1,2 @@
 # Data-mining-project
-This project addresses the question of "how to provide the best service in the most efficient and cost-effective way" for the 911 hotline in the US.
+This project is based on the US 911 Hotline Database and deals with the question of how to give the best service while saving costs.
